@@ -16,6 +16,8 @@ history stops fitting.
 
 </div>
 
+> Elffuss core now lives in the UtopiaIA organization on GitHub, at github.com/utopia-ia/elffuss. It moved from github.com/KikoCis/elffuss on 23 October 2026; the old address redirects.
+
 ---
 
 **In this repository:** [architecture](#how-it-fits-together) · [the context manager](#the-context-manager) · [what was measured](#what-was-measured-and-not-assumed) · [what is honest about this](#what-is-honest-about-this) · [what is in core/](#what-is-in-core)
@@ -133,9 +135,9 @@ The products **vendor** the core into `web/js/` (same file names) and keep it in
 
 ## The products
 
-- **[Elffuss Claw](https://claw.elffuss.com)** — an agentic web OS: the chat is the interface, and apps are created as HTML on the fly. ([source](https://github.com/KikoCis/elffuss-claw))
-- **[Elffuss Code](https://code.elffuss.com)** — a VS Code-style web IDE with the coding agent built in. ([source](https://github.com/KikoCis/elffuss-code))
-- **[Elffuss Translator](https://translator.elffuss.com)** — real-time conversation translation with live audio skills that work while you talk. ([source](https://github.com/KikoCis/elffuss-translator))
+- **[Elffuss Claw](https://claw.elffuss.com)** — an agentic web OS: the chat is the interface, and apps are created as HTML on the fly. ([source](https://github.com/utopia-ia/elffuss-claw))
+- **[Elffuss Code](https://code.elffuss.com)** — a VS Code-style web IDE with the coding agent built in. ([source](https://github.com/utopia-ia/elffuss-code))
+- **[Elffuss Translator](https://translator.elffuss.com)** — real-time conversation translation with live audio skills that work while you talk. ([source](https://github.com/utopia-ia/elffuss-translator))
 
 The full story, including what went wrong: **<https://bitacora.utopiaia.com/posts/16-beaten-by-doing-nothing.html>**
 
