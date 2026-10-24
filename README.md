@@ -138,6 +138,7 @@ The products **vendor** the core into `web/js/` (same file names) and keep it in
 - **[Elffuss Claw](https://claw.elffuss.com)** — an agentic web OS: the chat is the interface, and apps are created as HTML on the fly. ([source](https://github.com/utopia-ia/elffuss-claw))
 - **[Elffuss Code](https://code.elffuss.com)** — a VS Code-style web IDE with the coding agent built in. ([source](https://github.com/utopia-ia/elffuss-code))
 - **[Elffuss Translator](https://translator.elffuss.com)** — real-time conversation translation with live audio skills that work while you talk. ([source](https://github.com/utopia-ia/elffuss-translator))
+- **[Elffuss Copilot](https://copilot.elffuss.com)** — skills for your meetings: it listens to a call and fills in the client record as you talk. ([source](https://github.com/utopia-ia/elffuss-copilot))
 
 The full story, including what went wrong: **<https://bitacora.utopiaia.com/posts/16-beaten-by-doing-nothing.html>**
 
